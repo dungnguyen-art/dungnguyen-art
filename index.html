@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="CV của Nguyễn Dũng - Lập trình viên Python">
-    <meta name="keywords" content="CV, Nguyễn Dũng, lập trình viên, Python, GitHub">
-    <title>CV của Nguyễn Dũng</title>
+    <meta name="description" content="CV của Nguyễn Tiến Dũng - Frontend Developer và Blockchain Enthusiast">
+    <meta name="keywords" content="CV, Nguyễn Tiến Dũng, Frontend Developer, Blockchain, ReactJS, SubWallet">
+    <title>CV của Nguyễn Tiến Dũng</title>
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Arial', sans-serif;
             line-height: 1.6;
             margin: 0;
             padding: 0;
@@ -16,21 +16,34 @@
             color: #333;
         }
         .container {
-            max-width: 800px;
+            max-width: 900px;
             margin: 20px auto;
             padding: 20px;
             background-color: #fff;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
         }
         .header {
             text-align: center;
+            padding-bottom: 20px;
             border-bottom: 2px solid #007bff;
-            padding-bottom: 10px;
         }
         .header h1 {
             margin: 0;
             font-size: 2.5em;
             color: #007bff;
+        }
+        .header .contact-info {
+            font-size: 0.9em;
+            color: #555;
+            margin: 10px 0;
+        }
+        .header .contact-info a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        .header .contact-info a:hover {
+            text-decoration: underline;
         }
         .section {
             margin: 20px 0;
@@ -39,7 +52,8 @@
             font-size: 1.8em;
             color: #007bff;
             border-bottom: 1px solid #ddd;
-            padding-bottom: 5px;
+            padding-bottom: 8px;
+            margin-bottom: 15px;
         }
         .section ul {
             list-style-type: none;
@@ -48,9 +62,20 @@
         .section ul li {
             margin: 10px 0;
         }
-        .contact-info, .links {
+        .section ul li strong {
+            font-weight: 600;
+        }
+        .section .job, .section .project {
+            margin-bottom: 15px;
+        }
+        .section .job h3, .section .project h3 {
+            font-size: 1.2em;
+            margin: 0;
+            color: #333;
+        }
+        .section .job .date, .section .project .date {
             font-size: 0.9em;
-            color: #555;
+            color: #777;
         }
         .links a {
             color: #007bff;
@@ -62,7 +87,7 @@
         @media (max-width: 600px) {
             .container {
                 margin: 10px;
-                padding: 10px;
+                padding: 15px;
             }
             .header h1 {
                 font-size: 2em;
@@ -76,64 +101,127 @@
 <body>
 <div class="container">
     <div class="header">
-        <h1>Nguyễn Dũng</h1>
-        <p class="contact-info">Hà Nội, Việt Nam | [email của bạn] | [số điện thoại, nếu muốn] | <a href="https://github.com/dungnguyen-art">GitHub</a> | <a href="https://linkedin.com/in/[tên LinkedIn]">LinkedIn</a></p>
+        <h1>Nguyễn Tiến Dũng</h1>
+        <p class="contact-info">
+            Frontend Developer | Blockchain Enthusiast<br>
+            0814016810 | <a href="mailto:nguyentiendung.me@gmail.com">nguyentiendung.me@gmail.com</a> |
+            <a href="https://github.com/dungnguyen-art">github.com/dungnguyen-art</a><br>
+            Đức Giang, Long Biên, Hà Nội | Ngày sinh: 10/01/2001
+        </p>
     </div>
 
     <div class="section">
-        <h2>Giới thiệu</h2>
-        <p>Tôi là một [vai trò, ví dụ: Lập trình viên Python] đam mê xây dựng các ứng dụng và giải quyết vấn đề bằng công nghệ. Tôi có kinh nghiệm làm việc với [liệt kê công nghệ, ví dụ: Python, Flask, Pandas] và luôn tìm kiếm cơ hội học hỏi thêm.</p>
+        <h2>Mục tiêu nghề nghiệp</h2>
+        <p>Phát triển sự nghiệp trong lĩnh vực Frontend và Blockchain, tận dụng kinh nghiệm với React, Web3 và UI/UX để xây dựng các sản phẩm chất lượng cao, thân thiện với người dùng. Mục tiêu trong 3-5 năm tới là trở thành Tech Lead hoặc Blockchain Solution Architect.</p>
     </div>
 
     <div class="section">
-        <h2>Kỹ năng</h2>
+        <h2>Kỹ năng chuyên môn</h2>
         <ul>
-            <li><strong>Ngôn ngữ lập trình:</strong> Python, [thêm các ngôn ngữ khác nếu có]</li>
-            <li><strong>Framework & Công cụ:</strong> Flask, Pandas, Git, [thêm nếu có]</li>
-            <li><strong>Khác:</strong> [ví dụ: Cơ sở dữ liệu, API, hoặc DevOps]</li>
+            <li><strong>Frontend:</strong> ReactJS, Redux, NextJS, HTML5, CSS3, Styled Components, PhaserJS</li>
+            <li><strong>Blockchain (cơ bản):</strong> Solidity, Web3.js, Substrate</li>
+            <li><strong>Khác:</strong> Git, Webpack, Redis, CI/CD (GitHub Actions, YAML), Docker (cơ bản)</li>
+            <li><strong>Ngôn ngữ:</strong> Tiếng Anh (đọc hiểu tốt tài liệu kỹ thuật)</li>
         </ul>
     </div>
 
     <div class="section">
         <h2>Kinh nghiệm làm việc</h2>
-        <ul>
-            <li>
-                <strong>[Tên công ty hoặc "Freelancer"]</strong> — [Vai trò, ví dụ: Lập trình viên Python]<br>
-                [Thời gian, ví dụ: 01/2023 - Hiện tại]<br>
-                - [Mô tả công việc hoặc thành tựu, ví dụ: Phát triển ứng dụng web quản lý công việc sử dụng Flask.]<br>
-                - [Thêm thành tựu khác nếu có]
-            </li>
-            <li>
-                <strong>[Tên công ty hoặc dự án cá nhân]</strong> — [Vai trò]<br>
-                [Thời gian]<br>
-                - [Mô tả công việc hoặc thành tựu]
-            </li>
-        </ul>
-    </div>
-
-    <div class="section">
-        <h2>Dự án nổi bật</h2>
-        <ul>
-            <li>
-                <strong>pythonProject</strong> — <a href="https://github.com/dungnguyen-art/pythonProject">GitHub</a><br>
-                [Mô tả ngắn gọn, ví dụ: Ứng dụng phân tích dữ liệu sử dụng Pandas và Matplotlib.]<br>
-                Công nghệ: Python, Pandas, Matplotlib
-            </li>
-            <li>
-                <strong>[Tên dự án khác]</strong> — <a href="[liên kết GitHub]">GitHub</a><br>
-                [Mô tả ngắn gọn]<br>
-                Công nghệ: [Liệt kê công nghệ]
-            </li>
-        </ul>
+        <div class="job">
+            <h3>Koni Studio (SubWallet, Story Protocol...)</h3>
+            <p class="date">Frontend Developer | 09/2023 - Hiện tại</p>
+            <ul>
+                <li>Phát triển UI/UX cho ví SubWallet Extension (Chrome, Firefox).</li>
+                <li>Xây dựng web dashboard SubWallet: responsive, dynamic content.</li>
+                <li>Xây dựng Telegram game app với animation (PhaserJS + ReactJS).</li>
+                <li>Hỗ trợ blockchain/backend: các tác vụ liên quan đến token, derivation token price, tích hợp hệ thống Bitcoin vào ví SubWallet.</li>
+                <li><strong>Stack:</strong> React, Redux, Styled-components, Web3.js, Redis, NextJS</li>
+            </ul>
+        </div>
+        <div class="job">
+            <h3>VMO Holdings</h3>
+            <p class="date">Blockchain Intern | 05/2023 - 06/2023</p>
+            <ul>
+                <li>Tìm hiểu và phát triển Dapps với Solidity, Hardhat.</li>
+            </ul>
+        </div>
+        <div class="job">
+            <h3>Vietnam Blockchain Innovation (VBI)</h3>
+            <p class="date">Research Assistant | 04/2023 - 07/2023</p>
+            <ul>
+                <li>Nghiên cứu hệ sinh thái DOT/Substrate.</li>
+            </ul>
+        </div>
+        <div class="job">
+            <h3>Nebula Labs</h3>
+            <p class="date">Volunteer - Dịch tài liệu kỹ thuật | 02/2023 - 04/2023</p>
+            <ul>
+                <li>Dịch "Rust by Example" từ tiếng Anh sang tiếng Việt.</li>
+                <li><a href="https://github.com/nebula-labs/rust-by-example-vn">github.com/nebula-labs/rust-by-example-vn</a></li>
+            </ul>
+        </div>
+        <div class="job">
+            <h3>Bkav</h3>
+            <p class="date">Sinh viên thực tập - Lập trình hệ thống | 04/2021 - 07/2021</p>
+            <ul>
+                <li>Nghiên cứu virus máy tính, lập trình Assembly.</li>
+                <li>Tìm hiểu cơ chế phần mềm diệt virus BKAV Pro.</li>
+            </ul>
+        </div>
+        <div class="job">
+            <h3>CyberKid Vietnam</h3>
+            <p class="date">Tình nguyện viên | 12/2020 - 01/2021</p>
+            <ul>
+                <li>Chia sẻ kiến thức an toàn mạng cho học sinh cấp 1-2 tại Hà Nội.</li>
+            </ul>
+        </div>
     </div>
 
     <div class="section">
         <h2>Học vấn</h2>
+        <div class="job">
+            <h3>Học viện Công nghệ Bưu chính Viễn thông</h3>
+            <p class="date">Công nghệ Thông tin (Công nghệ phần mềm) | 09/2019 - 12/2024</p>
+            <ul>
+                <li>Học chuyên sâu về phát triển phần mềm và Machine Learning.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Dự án cá nhân & Đóng góp</h2>
+        <div class="project">
+            <h3>SubWallet Extension/Web Dashboard</h3>
+            <ul>
+                <li>UI chính cho ví SubWallet.</li>
+            </ul>
+        </div>
+        <div class="project">
+            <h3>Telegram Game App - Football Rivals</h3>
+            <ul>
+                <li>Animation & UX.</li>
+            </ul>
+        </div>
+        <div class="project">
+            <h3>Dịch Rust by Example</h3>
+            <ul>
+                <li>Tài liệu học Rust tiếng Việt.</li>
+                <li><a href="https://github.com/nebula-labs/rust-by-example-vn">github.com/nebula-labs/rust-by-example-vn</a></li>
+            </ul>
+        </div>
+        <div class="project">
+            <h3>Quay video chia sẻ kiến thức blockchain</h3>
+            <ul>
+                <li>YouTube VBI.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Chứng chỉ & Giải thưởng</h2>
         <ul>
-            <li>
-                <strong>[Tên trường]</strong> — [Bằng cấp, ví dụ: Cử nhân Công nghệ Thông tin]<br>
-                [Thời gian, ví dụ: 2018 - 2022]
-            </li>
+            <li>2020 - Cuộc thi "Thuật toán ứng dụng" (Samsung & HVCNBCVT)</li>
+            <li>2021 - Chứng nhận TNV từ tổ chức CyberKid Vietnam</li>
         </ul>
     </div>
 
@@ -141,8 +229,7 @@
         <h2>Liên kết</h2>
         <p>
             <a href="https://github.com/dungnguyen-art">GitHub</a> |
-            <a href="https://linkedin.com/in/[tên LinkedIn]">LinkedIn</a> |
-            <a href="https://x.com/[tên Twitter/X]">Twitter/X</a>
+            <a href="mailto:nguyentiendung.me@gmail.com">Email</a>
         </p>
     </div>
 </div>
