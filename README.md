@@ -35,8 +35,11 @@ I'm **Dung Nguyen**, a passionate **Software Engineer**, **Blockchain Developer*
 
 ## 📬 Connect with Me
 
+<!-- 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dungnguyen-art&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=web&logoColor=white)](https://your-portfolio.com)
 
+-->
 Thanks for checking out my profile! 🚀 Feel free to drop a ⭐ or reach out for collaboration!
