@@ -1,7 +1,6 @@
 # 🌱 The Code's Flow Guides the Future 🌿
 
-I'm **Dung Nguyen**, a passionate **Software Engineer**, **Blockchain Developer**, and **Full-Stack Developer** dedicated to building innovative and scalable solutions. With expertise in both web development and decentralized technologies, I enjoy tackling complex challenges and contributing to cutting-edge projects.
-
+I'm **Dung Nguyen**, a Full-Stack Developer with a passion for blockchain innovation, crafting scalable and cutting-edge solutions. With expertise in web development and decentralized technologies, I thrive on solving complex challenges and shaping the future of tech
 🌟 **About Me**
 - 🔭 Currently working on: Blockchain-based applications and full-stack web projects.
 - 🌱 Learning: Advanced smart contract development, zero-knowledge proofs, and Rust for blockchain.
