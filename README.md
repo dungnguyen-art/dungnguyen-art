@@ -13,8 +13,9 @@ I'm **Dung Nguyen**, a passionate **Software Engineer**, **Blockchain Developer*
 ---
 
 ## 📊 My GitHub Stats
-
+<!-- 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dungnguyen-art&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true)
+-->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dungnguyen-art&layout=compact&theme=dracula&hide_border=true&count_private=true&size_weight=0.5&count_weight=0.5)
 ---
 
