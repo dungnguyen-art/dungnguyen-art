@@ -6,18 +6,16 @@ I'm **Dung Nguyen**, a passionate **Software Engineer**, **Blockchain Developer*
 - 🔭 Currently working on: Blockchain-based applications and full-stack web projects.
 - 🌱 Learning: Advanced smart contract development, zero-knowledge proofs, and Rust for blockchain.
 - 👯 Open to collaborating on: Open-source blockchain projects, DeFi protocols, or full-stack apps.
-- 💬 Ask me about: Solidity, React, Node.js, Nestjs or system architecture.
-- 📫 Reach me **at**: [nguyentiendung.me@gmail.com](mailto:nguyentiendung.me@gmail.com).
+- 💬 Ask me about: React, Node.js, Nestjs or system architecture.
+- 📫 Reach me at: [nguyentiendung.me@gmail.com](mailto:nguyentiendung.me@gmail.com).
 - ⚡ Fun fact: I love optimizing code as much as I enjoy a good cup of coffee!
 
 ---
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=com/dungnguyen-art&show_icons=true&theme=dracula&hide_border=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=com/dungnguyen-art&layout=com&compact&theme=true)  
-![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=dungnguyen-art&theme=com&theme=dracula&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dungnguyen-art&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dungnguyen-art&layout=compact&theme=dracula&hide_border=true&count_private=true&size_weight=0.5&count_weight=0.5)
 ---
 
 ## 🛠️ Technologies & Tools
@@ -32,8 +30,6 @@ I'm **Dung Nguyen**, a passionate **Software Engineer**, **Blockchain Developer*
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-0D1117?logo=github-actions&logoColor=white&style=flat)  
 ![C/C++](https://img.shields.io/badge/-C%2FC++-00599C?logo=c%2B%2B&logoColor=white&style=flat)  
 ![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logo=asm&logoColor=white&style=flat)
-
-*(Add or replace tools via [shields.io](https://shields.io/) to match your tech stack.)*
 
 
 ## 📬 Connect with Me
