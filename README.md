@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**dungnguyen-art/dungnguyen-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Dung Nguyen**, a passionate **Software Engineer**, **Blockchain Developer**, and **Full-Stack Developer** dedicated to building innovative and scalable solutions. With expertise in both web development and decentralized technologies, I enjoy tackling complex challenges and contributing to cutting-edge projects.
 
-Here are some ideas to get you started:
+🌟 **About Me**
+- 🔭 Currently working on: Blockchain-based applications and full-stack web projects.
+- 🌱 Learning: Advanced smart contract development, zero-knowledge proofs, and Rust for blockchain.
+- 👯 Open to collaborating on: Open-source blockchain projects, DeFi protocols, or full-stack apps.
+- 💬 Ask me about: Solidity, React, Node.js, Nestjs or system architecture.
+- 📫 Reach me **at**: [nguyentiendung.me@gmail.com](mailto:nguyentiendung.me@gmail.com).
+- ⚡ Fun fact: I love optimizing code as much as I enjoy a good cup of coffee!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 My GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=com/dungnguyen-art&show_icons=true&theme=dracula&hide_border=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=com/dungnguyen-art&layout=com&compact&theme=true)  
+![Commit Streak](https://github-readme-streak-stats.herokuapp.com/?user=dungnguyen-art&theme=com&theme=dracula&hide_border=true)
+
+---
+
+## 🛠️ Technologies & Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)  
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat)  
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=flat)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-0D1117?logo=github-actions&logoColor=white&style=flat)  
+![C/C++](https://img.shields.io/badge/-C%2FC++-00599C?logo=c%2B%2B&logoColor=white&style=flat)  
+![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?logo=asm&logoColor=white&style=flat)
+
+*(Add or replace tools via [shields.io](https://shields.io/) to match your tech stack.)*
+
+
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-profile)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=web&logoColor=white)](https://your-portfolio.com)
+
+Thanks for checking out my profile! 🚀 Feel free to drop a ⭐ or reach out for collaboration!
